@@ -1,0 +1,16 @@
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+jupyter
+ipykernel
+joblib
+fastapi
+uvicorn[standard]
+streamlit
+mlflow
+pytest
